@@ -5,7 +5,7 @@ using UnityEngine;
 public class Rockets : MonoBehaviour
 {
     public GameObject rocket;
-    public float rate = 2f;
+    public float rate = 3f;
     // Start is called before the first frame update
     void Start()
     {
