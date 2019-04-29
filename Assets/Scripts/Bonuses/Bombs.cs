@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bombs : MonoBehaviour
 {
-    public int damage = 3;
+    public int damage = 4;
     // Start is called before the first frame update
     void Start()
     {
